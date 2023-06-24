@@ -15,7 +15,7 @@ with available space._
 
 - [Wiki](https://github.com/chalmersproject/chalmersproject/wiki/Chalmers-Signal)
 - [Site](https://www.chalmerscards.com/chalmerssignal/)
-- [Demo (YouTube)](https://www.youtube.com/c/vsauce1/videos)
+- [Demo (YouTube)](https://www.youtube.com/watch?v=uhmIXnoFnhc)
 
 ### Chalmers Cards
 
